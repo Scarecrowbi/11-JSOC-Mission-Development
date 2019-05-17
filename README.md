@@ -6,6 +6,7 @@
 Links:
 - [Current Release](https://github.com/Scarecrowbi/11-JSOC-Malden-Training-Mission/releases)
 - [Official Steam Download](https://steamcommunity.com/sharedfiles/filedetails/?id=1742307801)
+- [11th JSOC Info](https://github.com/TheNightstalk3r/11th-JSOC)
 
 If you still want to bother us on Discord or Teamspeak, you can find us here:
 [Discord](https://discord.gg/DTA7sVJ), [Teamspeak3](ts.11jsoc.com)

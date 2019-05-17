@@ -42,6 +42,3 @@ Dedicated Kill House, Helicopter Landing Area, Navigation Training Area, Tank As
 
 
 
-# Known Issues:
-- Scripting for Gates into Weapons Handling Fire Range Not Opening Automatically, will be fixed soon...
-- Unable to sit on seats, currently being investigated as to why, will be fixed soon...

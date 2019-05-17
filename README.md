@@ -1,6 +1,7 @@
 # 11-JSOC-Malden-Training-Mission
 - Release Version: 1.3.0
-- 11th JSOC - Malden Training Map, a simple map that encompasses aspects of the map to be used within training with the 11th JSOC Unit.
+
+11th JSOC - Malden Training Map, a simple map that encompasses aspects of the map to be used within training with the 11th JSOC Unit.
 
 Links:
 - [Current Release](https://github.com/Scarecrowbi/11-JSOC-Malden-Training-Mission/releases)

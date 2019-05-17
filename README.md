@@ -16,8 +16,6 @@ There are 2 islands in the same repository so you have to:
 - Go to /mpmissions/ directory and copy 11JSOC_Training_Map.Malden into a new folder
 - Copy everything from 11JSOC_Training_Map into the 11JSOC_Training_Map.Malden folder
 - Go into /mpmissions/ inside the 11JSOC_Training_Map.Malden folder and deleted the other templates in there
-- Then compile the mission using pbomanager
-
 
 # Current Missions Under Development;
 
